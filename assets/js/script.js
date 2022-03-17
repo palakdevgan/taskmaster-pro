@@ -84,7 +84,7 @@ var taskSpan = $("<span>")
 .addClass("badge badge-primary badge-pill")
 .text(date);
 $(this).replaceWith(taskSpan);
-console.log(status);
+//console.log(status);
 });
 
 
